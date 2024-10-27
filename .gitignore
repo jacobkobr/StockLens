@@ -24,7 +24,10 @@ target/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/dist/
+/dist/*
+!/dist/FinanceFlow.jar
+!/dist/FinanceFlow.exe
+
 /nbdist/
 /.nb-gradle/
 build/
