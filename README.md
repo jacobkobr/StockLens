@@ -17,13 +17,13 @@ Java-based desktop application that fetches market data and news.
 
 ## Setup and Installation
 
-Create free API key: [Finnhub Dashboard](https://finnhub.io/dashboard )
+Create a free API key: [Finnhub Dashboard](https://finnhub.io/dashboard )
 
 Using exe: 
 Download version of [OpenJDK](https://jdk.java.net/23/)
-Place contents of jdk-xx.xx.xx in JRE folder next to .exe
+Place contents of jdk in JRE folder next to .exe
 
-Clone the Repository: 
+Clone the Repo: 
    ```bash
    git clone https://github.com/jacobkobr/StockLens.git
    cd StockLens
